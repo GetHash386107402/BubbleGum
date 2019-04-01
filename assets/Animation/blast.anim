@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blast",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "23a6ae21-ed3a-4ea0-823d-810bca67f232"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "f3881059-af34-441c-bf2b-6a079286697f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "58428dd1-9d4c-4117-b128-7132af07c310"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "23a6ae21-ed3a-4ea0-823d-810bca67f232"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

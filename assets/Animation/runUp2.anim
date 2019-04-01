@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ruanUp2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8c022e18-1492-479a-b71e-2906e07753ff"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9196caff-a812-437e-9b7e-6ee991717fb7"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "da1bcd7e-a947-476d-996d-550271803e46"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "be418b1f-47a6-4064-832a-3c392982fe67"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "f95403b9-c76a-49ae-b71e-f141d3a10372"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "8c022e18-1492-479a-b71e-2906e07753ff"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

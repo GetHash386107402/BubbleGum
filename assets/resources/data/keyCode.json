@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1001,
+        "dir": {
+        	"87":"runUp",
+            "83":"runDown",
+            "65":"runLeft",
+            "68":"runRight",
+			"32":"addBubble"
+        }            
+        
+    },
+	{
+		"id": 1002,
+		"dir": {
+			"38":"runUp",
+            "40":"runDown",
+            "37":"runLeft",
+            "39":"runRight",
+			"16":"addBubble"
+		}			
+	}
+]
